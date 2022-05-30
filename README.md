@@ -35,3 +35,9 @@ Aula 15 - OK.
 Aula 16 - OK.
 
 Aula 17 - OK.
+
+Aula 18 - OK.
+
+Aula 19 - OK.
+
+Aula 20 - OK.
