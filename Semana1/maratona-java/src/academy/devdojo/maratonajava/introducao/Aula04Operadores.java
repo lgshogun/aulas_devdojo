@@ -11,12 +11,18 @@ public class Aula04Operadores {
 
         boolean verSeTaDevendo = devendo1 > salarioTotal || devendo2 > salarioTotal && salarioTotal == 7000;
 
-        System.out.println(verSeTaDevendo);
+        double valorDoDevendo = 10000;
+
+        valorDoDevendo+=valorDoDevendo;
 
         if (verSeTaDevendo == true) {
             System.out.println("Ta tudo ok");
         }else{
             System.out.println("Fudeukkkk");
         }
+
+        System.out.println(verSeTaDevendo);
+
+        System.out.println(valorDoDevendo);
     }
 }
